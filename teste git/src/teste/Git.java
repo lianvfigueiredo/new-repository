@@ -9,6 +9,10 @@ public class Git {
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
+<<<<<<< HEAD
 		//sonwoinvoinvre
+=======
+		//nwovnoicmowim
+>>>>>>> 18b852c088c253d18e9bb0aeabc0650fb03000a9
 	}
 }
