@@ -10,6 +10,7 @@ public class Git {
 		System.out.println(b);
 		System.out.println(c);
 		System.out.println(b+c);
+		System.out.println(a+a);
 		//nwovnoicmowim
 		System.out.println(a+b);
 		System.out.println(a+c);
