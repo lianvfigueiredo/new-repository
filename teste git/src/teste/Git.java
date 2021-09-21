@@ -12,9 +12,12 @@ public class Git {
 		System.out.println(b+c);
 		System.out.println(a+a);
 		//nwovnoicmowim
+<<<<<<< HEAD
 		System.out.println(a+b);
 		System.out.println(a+c);
 		//tentativa de git stash
 		
+=======
+>>>>>>> parent of 04824c5 (Alguma mensagem)
 	}
 }
